@@ -9,6 +9,7 @@ homebrew_installed_packages:
   - bat
   - figlet
   - git
+  - gh
   - hashicorp/tap/terraform
   - htop
   - jq
