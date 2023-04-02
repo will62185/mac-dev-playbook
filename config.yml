@@ -47,6 +47,7 @@ homebrew_cask_apps:
   - rectangle
   - slack
   - sublime-text
+  - utm
   - yubico-yubikey-manager
   - vagrant
   - via
