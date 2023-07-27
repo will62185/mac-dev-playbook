@@ -10,13 +10,13 @@ homebrew_installed_packages:
   - figlet
   - git
   - gh
-  - hashicorp/tap/terraform
   - htop
   - jq
   - lolcat
   - nvm
   - postgresql@14
   - pyenv
+  - tfenv
   - tldr
   - tree
   - wget
