@@ -17,6 +17,8 @@ homebrew_installed_packages:
   - nvm
   - postgresql@14
   - pyenv
+  - pulumi
+  - tfenv
   - tldr
   - tree
   - wget
