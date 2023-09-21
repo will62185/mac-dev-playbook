@@ -55,7 +55,7 @@ homebrew_cask_apps:
   - visual-studio-code
   - warp
   - zoom
-  - hpedrorodrigues/tools/dockutil # workaround until proper version of dockutil is added to homebrew
+  - hpedrorodrigues/tools/dockutil
 
 
 configure_dock: true
