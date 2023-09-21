@@ -1,5 +1,5 @@
 ---
-configure_dotfiles: no
+configure_dotfiles: false
 
 homebrew_upgrade_all_packages: false
 
@@ -45,7 +45,6 @@ homebrew_cask_apps:
   - krisp
   - obsidian
   - pgadmin4
-# - logitech-options
   - rectangle
   - slack
   - sublime-text
