@@ -83,4 +83,3 @@ dockitems_persist:
   - name: "1Password"
     path: "/Applications/1Password.app/"
     pos: 9
-
